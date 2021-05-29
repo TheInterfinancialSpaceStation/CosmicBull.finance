@@ -12,10 +12,8 @@
  *              ~1000  (4.8%) : contract deployer's personal stake
  *              ~2000  (9.6%) : ecosystem reinvestment, expansion, and maintenance fund
  *              ~5000  (24.%) : burned by being sent to Vb's shib-burn wallet 
- *              ~13000 (62.%) : given liquidity on v3 uniswap directly with ETH
- *                  20% of the liquidity pools tokens will be sent to the shib-burn wallet
- * 
- * 
+ *              ~13000 (62.%) : given liquidity on sushiswap directly with ETH; liquidity tokens given to the ecosystem reinvestment, expansion, and maintenance fund
+
  * the inspiration for this token came from heisenberghoge's contract, but with Satoshi's distribution 
  * 
  * this token may possibly become a platform for higher layers including utility layers
@@ -27,7 +25,7 @@
 */
 
 
-// TAURUS is a deflationary, transction farming, joke and meme, astrological symbolism, and  powered currency
+// TAURUS is a deflationary, transction farming, joke and meme, and astrological symbolism powered currency
 
 
 
