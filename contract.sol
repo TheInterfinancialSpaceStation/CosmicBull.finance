@@ -9,9 +9,9 @@
  *      The supply has been changed to 21k
  * 
  *          The beginning distribution will be close to the following
- *              ~1000  (4.8%) : contract deployer's personal stake
+ *              ~1000  (4.76%) : contract deployer's personal stake
  *              ~7000  (33.3%) : ecosystem reinvestment, expansion, and maintenance fund
- *              ~13000 (62.%) : given liquidity on sushiswap directly with ETH; liquidity tokens given to the ecosystem reinvestment, expansion, and maintenance fund
+ *              ~13000 (61.9%) : given liquidity on sushiswap directly with ETH; liquidity pool tokens given to the ecosystem reinvestment, expansion, and maintenance fund
  * the inspiration for this token came from heisenberghoge's contract, but with Satoshi's distribution 
  * 
  * this token may possibly become a platform for higher layers including utility layers, i really want to build a dex on this at least
@@ -26,7 +26,8 @@
 */
 
 
-// TAURUS is a deflationary, transction farming, joke and meme, astrological symbolism, and community reinvestment powered currency. TAURUS is not a security.
+// TAURUS is a deflationary, transction farming, joke and meme, astrological symbolism, and community reinvestment powered currency. 
+// TAURUS is NOT a security.
 
 
 
