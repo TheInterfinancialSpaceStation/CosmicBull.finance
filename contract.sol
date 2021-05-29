@@ -10,13 +10,14 @@
  * 
  *          The beginning distribution will be close to the following
  *              ~1000  (4.8%) : contract deployer's personal stake
- *              ~2000  (9.6%) : ecosystem reinvestment, expansion, and maintenance fund
- *              ~5000  (24.%) : burned by being sent to Vb's shib-burn wallet 
+ *              ~7000  (33.3%) : ecosystem reinvestment, expansion, and maintenance fund
  *              ~13000 (62.%) : given liquidity on sushiswap directly with ETH; liquidity tokens given to the ecosystem reinvestment, expansion, and maintenance fund
-
  * the inspiration for this token came from heisenberghoge's contract, but with Satoshi's distribution 
  * 
- * this token may possibly become a platform for higher layers including utility layers
+ * this token may possibly become a platform for higher layers including utility layers, i really want to build a dex on this at least
+ * THE KEEPING OF THE KEYS RATHER THAN BURNING THEM ALLOWS FOR THE UNDILUTED MARKET CAP TO BE MAXIMIZED BY TECHNICALITY
+ * rather than be ranked by fully diluted market cap the way HOGE is, because the keys are kept we should be able to be ranked properly
+ * Hopefully the additional attention will be beneficial
  * 
 */
 
@@ -25,7 +26,7 @@
 */
 
 
-// TAURUS is a deflationary, transction farming, joke and meme, and astrological symbolism powered currency
+// TAURUS is a deflationary, transction farming, joke and meme, astrological symbolism, and community reinvestment powered currency. TAURUS is not a security.
 
 
 
